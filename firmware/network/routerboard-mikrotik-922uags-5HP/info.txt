@@ -1,0 +1,12 @@
+Tested on:
+Routerboard 922UAGS-5HPacD
+
+(Test is pending - we did not yet tested that binary image on the device) - TODO
+
+Based on source code:
+
+git log -1
+commit f82063785d0a31333c452ac5d3faa7637694346e
+Author: John Crispin <blogic@openwrt.org>
+
+

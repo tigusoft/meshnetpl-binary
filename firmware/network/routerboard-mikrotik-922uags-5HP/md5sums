@@ -1,0 +1,12 @@
+e18668461c626251365cb4488b0bca28 *openwrt-ar71xx-mikrotik-DefaultNoWifi-rootfs.tar.gz
+38565c7c2947a7fe7088cb6b64acaa39 *openwrt-ar71xx-mikrotik-vmlinux-initramfs-lzma.elf
+f18d4eab2a0bb35fa0a83983e78e571b *openwrt-ar71xx-mikrotik-vmlinux-initramfs.bin
+051770acc50d5ec1a9c2a13e6d8ffd33 *openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+e52156763e85bc1f2404bd25620b76e7 *openwrt-ar71xx-mikrotik-vmlinux-initramfs.gz
+4cd951f55e3fd7d82dd9757eec224ae8 *openwrt-ar71xx-mikrotik-vmlinux-initramfs.lzma
+df78efa6c6745caa9158f428fb350c95 *openwrt-ar71xx-mikrotik-vmlinux-lzma.elf
+47dc74656656ab1f9eb0c818ca74322a *openwrt-ar71xx-mikrotik-vmlinux.bin
+5635435cf8f44137684bddc2e47a51ea *openwrt-ar71xx-mikrotik-vmlinux.elf
+8d1dfd6df26025b1cf80b1182c7c1566 *openwrt-ar71xx-mikrotik-vmlinux.gz
+7a251c2bb50f633a2ab76a6782a7819d *openwrt-ar71xx-mikrotik-vmlinux.lzma
+4fbfbbb19b0bf17745e42aa0db6ecd77 *sha256sums
